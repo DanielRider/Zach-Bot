@@ -2,7 +2,7 @@
 
 ## What is ZachBot
 
-This will be a locally ran LLM finetuned on Zach's discord messages. That will then be able to respond to messages, periodically send a message, and respond to slash commands
+This will be a locally ran LLM finetuned on Zach's discord messages. That will then be able to respond to messages, periodically send a message, and respond to slash commands. The purpose is to BUILD SLOP, and maybe learn something along the way.
 
 ## Structure
 

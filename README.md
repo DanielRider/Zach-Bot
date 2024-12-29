@@ -1,5 +1,9 @@
 # ZACHBOT
 
+## What is ZachBot
+
+This will be a locally ran LLM finetuned on Zach's discord messages. That will then be able to respond to messages, periodically send a message, and respond to slash commands
+
 ## Structure
 
 The top level directory has some weird stuff going on with the index.html and index.js. To see what that does run:

@@ -1,18 +1,18 @@
 # ZACHBOT
 
+## How to use
+
+pull code. Go to Discord_Integration/
+
+```bash
+npm start
+```
+
 ## What is ZachBot
 
 This will be a locally ran LLM finetuned on Zach's discord messages. That will then be able to respond to messages, periodically send a message, and respond to slash commands. The purpose is to BUILD SLOP, and maybe learn something along the way.
 
 ## Structure
-
-The top level directory has some weird stuff going on with the index.html and index.js. To see what that does run:
-
-```bash
-npm run
-```
-
-I will remove it eventually.
 
 All JavaScript should be in the Discord_Integration/ directory. That will be the 'main'
 

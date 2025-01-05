@@ -59,3 +59,17 @@ top-level-directory/
 |-- package.json                     # Node.js dependencies (for Discord bot)
 |-- LICENSE                          # Project license
 ```
+
+## deploying commands
+
+do:
+
+```bash
+node deploy-commands.js
+```
+
+## adding bot to server
+
+Only has slash command capability
+
+<https://discord.com/oauth2/authorize?client_id=1321991828324487271&integration_type=0&scope=applications.commands>
